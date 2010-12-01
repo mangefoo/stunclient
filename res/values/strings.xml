@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">STUN Client</string>
+    
+    <string name="options_about">About</string>
+    
+    <!-- About -->
+    <string name="about_text">\
+STUN Client is an open source application that let you discover the type of NAT \
+that is used by your network gateway.\n\
+\n\
+Application icon by DevCom (http://www.devcom.com/).\n\
+\n\
+STUN Client makes use of JSTUN (http://jstun.javawi.de) by Thomas King which is licensed under GPL 2.0.\n\
+\n\
+Copyright &#169; 2010  Magnus Eriksson &lt;eriksson.mag@gmail.com&gt;. All rights reserved.\n\
+\n\
+This program is free software: you can redistribute it and/or modify \
+it under the terms of the GNU General Public License as published by \
+the Free Software Foundation, either version 3 of the License, or \
+(at your option) any later version.\n\
+\n\
+This program is distributed in the hope that it will be useful, \
+but WITHOUT ANY WARRANTY; without even the implied warranty of \
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the \
+GNU General Public License for more details.\n\
+\n\
+You should have received a copy of the GNU General Public License \
+along with this program.  If not, see &lt;http://www.gnu.org/licenses/&gt;.\
+</string>
+
+</resources>

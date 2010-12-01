@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+    
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="10dip">
+
+  <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="5dip">
+    
+    <TextView
+      android:id="@+id/about_title"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="STUN Client"
+      android:textSize="20dip"
+      android:textColor="#ffffff"
+      android:layout_centerVertical="true"/>
+      
+    <ImageView android:id="@+id/about_image"
+	           android:layout_width="wrap_content"
+	           android:layout_height="wrap_content"
+	           android:src="@drawable/internet_icon"
+	           android:gravity="right"
+	           android:layout_alignRight="@+d/dummy"
+	           android:layout_alignWithParentIfMissing="true"/>
+  </RelativeLayout>
+  
+  <ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+  
+    <TextView
+      android:id="@+id/about_content"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="&lt;about&gt;" />
+  </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="hosts">
+	  <item>stun.xten.com</item>
+	  <item>stun.sipgate.net</item>
+	  <item>stun.ekiga.net</item>
+	  <item>stun01.sipphone.com</item>
+	  <item>stun.fwdnet.net</item>
+	  <item>stun.ideasip.com</item>
+	  <item>stun.softjoys.com</item>
+	  <item>stun.voipbuster.com</item>
+	  <item>stun.voxgratia.org</item>
+	</string-array>
+	
+	<string-array name="empty_array"/>
+</resources>
