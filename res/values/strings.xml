@@ -10,6 +10,8 @@
 STUN Client is an open source application that let you discover the type of NAT \
 that is used by your network gateway.\n\
 \n\
+http://stunclient.kodholken.com\n\
+\n\
 Application icon by DevCom (http://www.devcom.com/).\n\
 \n\
 STUN Client makes use of JSTUN (http://jstun.javawi.de) by Thomas King which is licensed under GPL 2.0.\n\
